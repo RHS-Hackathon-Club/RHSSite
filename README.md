@@ -19,6 +19,10 @@ then install Flask:
 ```console
 pip install Flask
 ```
+To initialize the database:
+```console
+flask --app app init-db
+```
 To test:
 ```console
 flask --app flaskr --debug run
