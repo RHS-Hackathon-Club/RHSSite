@@ -6,9 +6,14 @@ In the root of the project, create a venv folder with:
 ```
 python -m venv venv
 ```
-then activate the environment:
+then activate the environment:<br>
+(Windows)
 ```
 venv/Scripts/activate
+```
+(macOS)
+```
+. venv/bin/activate
 ```
 install Flask:
 ```
