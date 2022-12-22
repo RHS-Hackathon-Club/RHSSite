@@ -15,7 +15,7 @@ venv/Scripts/activate
 ```
 . venv/bin/activate
 ```
-install Flask:
+then install Flask:
 ```
 pip install Flask
 ```
